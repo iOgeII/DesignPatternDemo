@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- RefineAbstraction -->
+	<className>example._2ImageMultiPlatform.GIFImage</className>
+	<!-- ConcreteImplementor -->
+	<className>example._2ImageMultiPlatform.UnixImpl</className>
+</config>
