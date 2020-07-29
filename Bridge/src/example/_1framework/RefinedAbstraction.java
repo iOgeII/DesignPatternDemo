@@ -1,6 +1,6 @@
 package example._1framework;
 
-public class RefineAbstraction extends Abstraction {
+public class RefinedAbstraction extends Abstraction {
 
 	@Override
 	public void operation() {
